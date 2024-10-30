@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Penquin_Helper.Code.New_Core_Architecture
+namespace Code.New_Core_Architecture
 {
     [DefaultExecutionOrder(-5000)]
     public abstract class ConfigRegistrator : DependencyRegistrator
