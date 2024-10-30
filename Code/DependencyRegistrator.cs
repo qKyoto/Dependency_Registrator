@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Penquin_Helper.Code.New_Core_Architecture
+namespace Code.New_Core_Architecture
 {
     public abstract class DependencyRegistrator : MonoBehaviour
     {
